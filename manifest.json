@@ -1,0 +1,8 @@
+{
+  "name": "Ravens Ministries Church Electricity Tracker",
+  "short_name": "Electricity Tracker",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1f3a5f"
+}
